@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I,m Yugal Maurya... you can also call me "Yuvotro"
+I'm Yugal Maurya... you can also call me "Yuvotro"
 
 - 🔭 I’m currently building my portfolio
 - 🌱 I’m currently learning C++ and Game Development...
